@@ -79,7 +79,7 @@ The most advanced feature in the system — instead of requiring rigid system ID
 
 ## 🗂️ ERD
 
-![ERD](https://github.com/user-attachments/assets/3104206a-233d-493b-a9d7-9db6608869e8)
+![ERD](Screenshot%202026-06-29%20224002.png)
 
 ---
 
